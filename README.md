@@ -18,7 +18,7 @@ A simple **URL Shortener** built using **Node.js, Express.js, MongoDB**, and **E
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Sanketmandwal/URLshortner.git
+git clone https://github.com/Sanketlate09/URLshortner.git
 cd URLshortner
 ```
 
